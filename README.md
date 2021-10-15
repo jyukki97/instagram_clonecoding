@@ -1,2 +1,2 @@
 # instagram_clonecoding
-[](".images/insta.PNG")
+[]("./images/insta.PNG")
